@@ -1,0 +1,36 @@
+@media screen and (max-width:1005px){
+   
+    .div1 {
+        text-align: right;
+        margin-left: 30%;
+    }
+    .div2{
+        display: none;
+    }
+
+    img {
+        margin: 0;
+        text-align: center;
+    }
+
+    .div3 {
+        margin-left: 30%;
+    }
+
+    .div4 {
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+
+    .div3  p{
+        text-align: center;
+    }
+
+    .div6, .div7, .div8 {
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+
+}
